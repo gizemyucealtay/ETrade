@@ -1,0 +1,46 @@
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Repos.deps.json
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Repos.runtimeconfig.json
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Repos.dll
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Repos.pdb
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.AssemblyInfoInputs.cache
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.AssemblyInfo.cs
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.dll
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\refint\ETrade.Repos.dll
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.pdb
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.genruntimeconfig.cache
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ref\ETrade.Repos.dll
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Core.dll
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Dal.dll
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Entity.dll
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Core.pdb
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Dal.pdb
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Entity.pdb
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.csproj.CopyComplete
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Dto.dll
+C:\Users\SEM\Desktop\ERP301AKŞAM\16-Katmanlı Mimari\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Dto.pdb
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Repos.deps.json
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Repos.runtimeconfig.json
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Repos.dll
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Repos.pdb
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Core.dll
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Dal.dll
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Dto.dll
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Entity.dll
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Core.pdb
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Dto.pdb
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Dal.pdb
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\bin\Debug\net6.0\ETrade.Entity.pdb
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.csproj.AssemblyReference.cache
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.AssemblyInfoInputs.cache
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.AssemblyInfo.cs
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.csproj.CopyComplete
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.dll
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\refint\ETrade.Repos.dll
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.pdb
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ETrade.Repos.genruntimeconfig.cache
+C:\Users\SEM\Desktop\ETrade\ETrade\ETrade.Repos\obj\Debug\net6.0\ref\ETrade.Repos.dll

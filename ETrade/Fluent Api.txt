@@ -1,0 +1,4 @@
+Fluent Api
+Migration koduna Update-Database komutundan evvel müdahale etmek için kullanýlýr.
+En çok nvarchar(max) ý nvarchar(50) a
+onDelete: ReferentialAction.Cascade i onDelete: ReferentialAction.NoAction a çevirmek için kullanýlýr

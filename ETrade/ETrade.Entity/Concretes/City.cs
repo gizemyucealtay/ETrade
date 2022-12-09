@@ -1,0 +1,14 @@
+﻿using ETrade.Entity.Abstracts;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ETrade.Entity.Concretes
+{
+    public class City :BaseDescription
+    {
+        public ICollection<County> Counties { get; set; }   //bir city nin birden çok county si olur
+    }
+}
